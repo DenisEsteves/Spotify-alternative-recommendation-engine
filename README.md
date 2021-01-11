@@ -10,7 +10,7 @@ My proposal is to create a recommendation engine that takes into account the son
 
 ## Methodology
 
-Using the dataset taken from [Kaggle]](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) and machine learning, I created an alternative Spotify recommendation engine that takes into account purely the characteristics of the song to do new recommendations. This characteristics are the following:
+Using the dataset taken from [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) and machine learning, I created an alternative Spotify recommendation engine that takes into account purely the characteristics of the song to do new recommendations. This characteristics are the following:
                               - Valence
                               - Year
                               - Acousticness
