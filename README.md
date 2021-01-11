@@ -1,4 +1,4 @@
-# Spotify alternative recommendation engine 
+# Spotify alternative recommendation engine 🎵🥁🎵
 
 ## Problem
 
